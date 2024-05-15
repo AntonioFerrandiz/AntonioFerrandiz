@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AntonioFerrandiz</h1>
 <h3 align="center">Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC) in Peru 🇵🇪. A passionate Backend Software Developer with experience building web applications with Java / C# / Python and other technologies. Always in constant learning to keep growing</h3>
 
-- 🔭 I’m currently working on **CSTI CORP as Java Developer**
+- 🔭 I’m currently working on **Seidor as SAPUI5 Consultant**
 
 - 👨‍💻 All of my projects are available at [https://antonio-ferrandiz-portfolio.vercel.app/](https://antonio-ferrandiz-portfolio.vercel.app/)
 
