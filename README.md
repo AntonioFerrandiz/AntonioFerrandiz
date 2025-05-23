@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AntonioFerrandiz</h1>
-<h3 align="center">Bachelor of Software Engineering in Peru 🇵🇪. A passionate Backend Software Developer with experience building web applications with Java / C# / Python and other technologies. Always in constant learning to keep growing</h3>
+<h3 align="center">Software Engineering in Peru 🇵🇪. A passionate Backend Software Developer with experience building web applications with Java / C# / Python and other technologies. Always in constant learning to keep growing</h3>
 
 - 🔭 I’m currently working on **Seidor as SAPUI5 Consultant**
 
